@@ -1,0 +1,13 @@
+# You can define owners of code in public repositories with 
+# GitHub Free and GitHub Free for Organizations,
+# and in public and private repositories with 
+# GitHub Pro, GitHub Team, GitHub Enterprise Cloud,
+# and GitHub Enterprise Server.
+# Default code reviewers/owners for all code changes
+* @Anas-jaf and 
+# Email reviewer for files
+html *.htmltest@gmail.com
+# Reviewer per organization Team
+*.txt @OrganizationName/TeamName
+# Reviewer for specific folders
+/folder1/folder2 @user1 @user2 @test@gmail.com
