@@ -5,9 +5,3 @@
 # and GitHub Enterprise Server.
 # Default code reviewers/owners for all code changes
 * @Anas-jaf
-# Email reviewer for files
-html *.htmltest@gmail.com
-# Reviewer per organization Team
-*.txt @OrganizationName/TeamName
-# Reviewer for specific folders
-/folder1/folder2 @user1 @user2 @test@gmail.com
